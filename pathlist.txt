@@ -1,0 +1,5 @@
+/path/list/example.txt
+/path/list/example.exe
+/path/list/example.sh
+/path/list/example.c
+/path/list/example.dll
